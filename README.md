@@ -18,8 +18,8 @@ Cursando Análise e Desenvolvimento de Sistemas no Senac.
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kev1nho&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kev1nho&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="150"/>
 </p>
 
 ---
